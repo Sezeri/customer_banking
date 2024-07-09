@@ -1,4 +1,4 @@
-""" Create a Account class with methods"""
+""" Create an Account class with methods"""
 
 class Account:
     """Creating an Account class with methods"""
@@ -15,5 +15,3 @@ class Account:
     def set_interest(self, interest):
         """Sets the interest gained for the the account"""
         self.interest = interest
-        
-
